@@ -1,0 +1,36 @@
+.tab{
+    translate: 150px 40px;
+    
+}
+.heading{
+    
+    
+    background-color: #6d0404;
+    border-radius: 50px;
+    height: 1.5cm;
+
+}
+.heading>h1{
+    color: aliceblue;
+    translate: 35px 10px;
+
+}
+
+
+.heading>input{
+    translate: 400px -60px;
+    width: 14cm;
+    height: 1cm;
+    font-size: x-large;
+    border-radius: 5px;
+    
+}
+
+.heading>img{
+    height: 1cm;
+    width: 1cm;
+    translate: 26cm -1.2cm ;
+}
+
+
+
